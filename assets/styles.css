@@ -18,3 +18,13 @@ h6 {
     font-weight: 200;
     font-style: italic;
 }
+
+footer {
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #2A52BE;
+    color: #FFD800;  
+    padding: 20px; 
+    font-size: 1em;
+}
